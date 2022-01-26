@@ -1,8 +1,6 @@
 <h1 align="center">PokeNext
 </h1>
 
-<h2 align="center">🚧 O projeto ainda se encontra em fase de construção 🚧</h1>
-
 ## 💻 Sobre o projeto
 
 O projeto consiste em uma pokedex usando o Next.js
